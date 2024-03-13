@@ -1,0 +1,31 @@
+---------------------------------------------------------EcoTech----------------------------------------------------------
+
+Requerimientos funcionales:
+
+1. *Visual Editor*: El sitio web debe tener un editor visual intuitivo que permita a los usuarios autónomos actualizar y administrar el contenido del sitio web.
+
+2. *Gestión de Proyectos*: El sitio web debe permitir la creación y gestión de proyectos, así como la conexión de proyectos existentes. También debe incluir funciones como deshacer, CI/CD, funciones perimetrales y previsualizaciones de despliegue colaborativo.
+
+3. *Funcionalidad de Comercio Electrónico*: El sitio web debe tener una funcionalidad de comercio electrónico que permita a los usuarios agregar productos al carrito de compras y realizar compras.
+
+4. *Gestión de Contenido*: El sitio web debe tener un sistema para gestionar y mostrar diferentes tipos de contenido, como banners, características clave, servicios y testimonios.
+
+5. *Geolocalización*: El sitio web debe ser capaz de determinar la ubicación geográfica del usuario.
+
+Requerimientos no funcionales:
+
+1. *Rendimiento*: El sitio web debe ser rápido y eficiente para entregar una excelente experiencia de usuario.
+
+2. *Confiabilidad*: El sitio web debe ser confiable y capaz de manejar picos de tráfico y tráfico inesperado.
+
+3. *Seguridad*: El sitio web debe tener una seguridad de alto nivel para proteger los datos y a los usuarios.
+
+4. *Escalabilidad*: El sitio web debe ser escalable para adaptarse al aumento de tráfico y datos.
+
+5. *Usabilidad*: El sitio web debe ser fácil de usar y navegar para los usuarios.
+
+6. *Mantenibilidad*: El sitio web debe ser fácil de mantener y actualizar.
+
+7. *Compatibilidad*: El sitio web debe ser compatible con todos los marcos modernos y dispositivos.
+
+8. *Integración*: El sitio web debe ser capaz de integrarse con otros sistemas y servicios.
